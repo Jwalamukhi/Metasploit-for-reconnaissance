@@ -1,6 +1,6 @@
 ## Metasploit-for-reconnaissance
 
-## DATE: 29.03.2025
+## DATE: 
 
 # Metasploit
 Metasploit for reconnaissance in pentesting
