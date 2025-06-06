@@ -1,6 +1,6 @@
 ## Metasploit-for-reconnaissance
 
-## DATE: 
+
 
 # Metasploit
 Metasploit for reconnaissance in pentesting
